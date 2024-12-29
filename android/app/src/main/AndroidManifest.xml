@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="vizzano_webview"
+        android:label="Vizzano Webview"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
